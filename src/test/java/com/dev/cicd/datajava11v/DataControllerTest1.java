@@ -1,14 +1,13 @@
 package com.dev.cicd.datajava11v;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-//import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DataControllerTest {
+class DataControllerTest1 {
 
     @Autowired
     DataController dataController;
