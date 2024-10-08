@@ -15,8 +15,8 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
-		<sonar.sonar.projectKey>devopsarchitect1_datajava11v</sonar.sonar.projectKey	>
-	 	<sonar.organization>devopsarchitect1</sonar.organization>
+		<sonar.sonar.projectKey>githubactions200_datajava11v</sonar.sonar.projectKey	>
+	 	<sonar.organization>githubactions200</sonar.organization>
 	  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
